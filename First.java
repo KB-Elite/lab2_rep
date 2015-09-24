@@ -4,6 +4,7 @@ public class First{
 //add some coment
 		System.out.println("Goodbie world");
 		print();
+		println("can we create another class???")
 	}
 
 	public static void print(){
