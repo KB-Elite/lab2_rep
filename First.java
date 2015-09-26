@@ -1,10 +1,11 @@
 public class First{
 
 	public static void main(String[] args){
-//add some coment
+		//add some coment
 		System.out.println("Goodbie world");
-		print();
-		println("can we create another class???")
+		System.out.println();
+		System.out.println("can we create another class???");
+		Second sec = new Second();
 	}
 
 	public static void print(){
