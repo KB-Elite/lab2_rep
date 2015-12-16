@@ -7,7 +7,7 @@ public class First{
 		System.out.println("can we create another class???");
 		Second sec = new Second();
 	}
-
+//ТЕСТТЕСТ
 	public static void print(){
 		System.out.println("We are in function <print> :-)");
 	}
